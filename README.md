@@ -1,2 +1,2 @@
 # projects
-/deployed/shelter/pages/main/
+https://sokolw.github.io/projects/deployed/shelter/pages/main/
