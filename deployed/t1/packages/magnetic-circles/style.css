@@ -1,0 +1,13 @@
+.magnetic-circle {
+  position: absolute;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  z-index: 15;
+}
+
+/* positioning */
+/* .magnetic-circle_pos1 {
+  top: 100px;
+  left: 0;
+} */
